@@ -32,3 +32,7 @@ Initial task definitions were migrated from [the former QGR lane in UQPU](https:
 
 ## Contribution
 Fork, create a focused branch, follow the handoff guide, and submit a pull request. Never commit secrets, private data or unlicensed material. Paid compute, external spending and hazardous physical experiments require explicit authorization and appropriate safety review.
+
+
+## Cross-project integration: Quantum Gravity ↔ Propulsion
+This project is an upstream physics partner to [Contactless Propulsion Research](https://github.com/KitvisetLabs/Contactless-Propulsion-Research), with [UQPU](https://github.com/KitvisetLabs/UQPU-GPU-Replacement-Research) providing computational support. The shared research contract, bidirectional questions, evidence labels and safety gates are in [the integration bridge](integration/QUANTUM_GRAVITY_PROPULSION_BRIDGE.md). Quantum-gravity-to-propulsion mechanisms remain hypotheses unless quantitatively predicted and experimentally reproduced.
